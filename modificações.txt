@@ -1,0 +1,7 @@
+modificações realizadas:
+
+-modificada a condição que verifica se o jogador atingiu o mínimo e máximo de altura, na nova condição o jogador só ira subir ou descer se a posição estiver dentro dos
+parâmetros, evitando aquele efeito estranho em que ele sobe 10px e depois desce 10px quando está em cima e o contrário quando está em baixo na tela. (js.js linhas 75 e 83)
+- No arquivo aula18, linha 12, o arquivo com a animação da morte do amigo estava com o nome diferente do arquivo da imagem.
+
+ 
